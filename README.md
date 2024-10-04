@@ -14,4 +14,5 @@ Generative Adversarial Networks (GANs).
 
 Along with that I benchmarked these ML models with classical time series models: ARMA, VAR, and Historical Average.
 
-The full code of all the models can be found in the file "Thesis_Code_full.ipynb".
+The full code of all the models can be found in the file "Thesis_Code_full.ipynb". The separate code for Generative Adversarial Network model is copied separately to the file "GAN_forecast.ipynb".
+The data for the project is loaded directly from drive in the code.
